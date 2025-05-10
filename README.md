@@ -42,8 +42,6 @@ I specialize in:
 ---
 
 
----
-
 ## 🔗 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deep-patel)  
 - 📧 [Email](mailto:your.email@example.com)  

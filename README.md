@@ -41,8 +41,6 @@ I specialize in:
 
 ---
 
-## 📈 GitHub Stats:  
-[![Deep Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepPatel123&show_icons=true&count_private=true&theme=dark)](https://github.com/DeepPatel123)
 
 ---
 

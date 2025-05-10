@@ -44,17 +44,15 @@ I specialize in:
 
 ## 🔗 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/deep-patel)  
-- 📧 [Email](mailto:your.email@example.com)  
-- 🧑‍💻 [Portfolio](https://deep-patel.dev)  
-- 🐦 [Twitter](https://twitter.com/deep_patel)  
+- 📧 [Email](deep.patel8155@gmail.com)  
 
 ---
 
 ## 🌟 Featured Projects:  
+- **[CliniqueNow]([https://github.com/DeepPatel123/clinique](https://cliniquenow-frontend.onrender.com))**: A doctor appointment booking app with a user-friendly interface and backend powered by MongoDB.  
+- **[Anonymous Feedback]([https://github.com/DeepPatel123/anonymous-feedback](https://cipher-voice.vercel.app/))**: An app to give anonymous feedback with OpenAI message generation.  
 - **[Job Nexus](https://github.com/DeepPatel123/jobNexus)**: A platform for job seekers and recruiters with features like job posting, job filtering by location, and saving favorite jobs.  
-- **[Clinique](https://github.com/DeepPatel123/clinique)**: A doctor appointment booking app with a user-friendly interface and backend powered by MongoDB.  
-- **[Anonymous Feedback](https://github.com/DeepPatel123/anonymous-feedback)**: An app to give anonymous feedback with OpenAI message generation.  
 
 ---
 
-> "The best way to predict the future is to create it." — **Abraham Lincoln**  
+> "The best way to predict the future is to create it."
